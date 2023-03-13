@@ -1,0 +1,15 @@
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.exe
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.deps.json
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.dll
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\bin\Debug\net7.0\SistemaEstacionamento.pdb
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.dll
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\refint\SistemaEstacionamento.dll
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.pdb
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\Leona\Nova pasta\SistemaEstacionamento\obj\Debug\net7.0\ref\SistemaEstacionamento.dll
